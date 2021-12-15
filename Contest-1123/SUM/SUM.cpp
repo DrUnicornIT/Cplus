@@ -1,4 +1,5 @@
 #include <iostream>
+#include <bits/stdc++.h>
 const int MAXN = 1e4 + 3;
 const int MOD = 1e9 + 7;
 int n;
@@ -17,8 +18,8 @@ int getValue(int i, int j)
 int main()
 {
 
-    // freopen("input.txt", "r", stdin);
-    // freopen("output.txt", "w", stdout);
+    freopen("input.txt", "r", stdin);
+    freopen("output.txt", "w", stdout);
 
     std::cin >> n;
 
