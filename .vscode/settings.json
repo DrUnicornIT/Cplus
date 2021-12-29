@@ -6,7 +6,10 @@
     "__config": "c",
     "ostream": "cpp",
     "vector": "cpp",
-    "exception": "cpp"
+    "exception": "cpp",
+    "__locale": "cpp",
+    "locale": "cpp",
+    "thread": "cpp"
   },
   "C_Cpp.errorSquiggles": "Disabled"
 }
