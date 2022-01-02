@@ -9,7 +9,9 @@
     "exception": "cpp",
     "__locale": "cpp",
     "locale": "cpp",
-    "thread": "cpp"
+    "thread": "cpp",
+    "iterator": "cpp",
+    "random": "cpp"
   },
   "C_Cpp.errorSquiggles": "Disabled"
 }
